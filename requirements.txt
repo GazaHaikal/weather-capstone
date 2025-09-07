@@ -1,0 +1,5 @@
+pandas
+matplotlib
+seaborn
+replicate
+python-dotenv
