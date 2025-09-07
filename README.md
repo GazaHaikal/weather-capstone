@@ -41,10 +41,10 @@ Selain analisis manual, saya juga memanfaatkan bantuan **AI (Meta Llama-3 70B vi
 ### Distribusi Kategori Cuaca
 - Sebagian besar data didominasi oleh **Hujan (88,4%)**, diikuti oleh **Salju (11,1%)**, sementara **Cerah** dan **Panas** hanya sebagian kecil.  
 
-## 📊 Pie Chart:  
+### 📊 Pie Chart:  
 ![Kategori Cuaca Pie Chart](images/piechart.png)  
 
-## 📊 Bar Chart:  
+### 📊 Bar Chart:  
 ![Kategori Cuaca Bar Chart](images/barchart.png)  
 
 ---
@@ -108,6 +108,7 @@ Grafik berikut memperlihatkan fluktuasi musiman suhu rata-rata bulanan serta tre
 Jika tidak ingin menggunakan .env, kamu bisa memasukkan API token secara manual saat diminta di notebook.
 
 4. Jalankan setiap sel untuk reproduksi analisis.  
+
 
 
 
