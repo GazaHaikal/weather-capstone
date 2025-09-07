@@ -101,12 +101,13 @@ Grafik berikut memperlihatkan fluktuasi musiman suhu rata-rata bulanan serta tre
 ## ▶️ Cara Menjalankan Notebook
 1. Clone repository atau buka notebook di Google Colab.  
 2. Pastikan library berikut sudah terinstall: `pandas`, `matplotlib`, `seaborn`, `replicate`, `python-dotenv`.  
-3. Buat file .env di folder project dengan isi seperti berikut:
+3. Buat file .env di folder project lalu upload ke google drive dengan isi seperti berikut:
 <pre>REPLICATE_API_TOKEN=your_api_key_here </pre>
 
 👉 Ganti your_api_key_here dengan token asli dari Replicate API Tokens.
 Jika tidak ingin menggunakan .env, kamu bisa memasukkan API token secara manual saat diminta di notebook.
 
 4. Jalankan setiap sel untuk reproduksi analisis.  
+
 
 
