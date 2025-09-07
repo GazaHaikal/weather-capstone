@@ -93,7 +93,7 @@ Grafik berikut memperlihatkan fluktuasi musiman suhu rata-rata bulanan serta tre
 ## 📤 Hasil Proyek
 - 📒 **Notebook (Google Colab):** [https://colab.research.google.com/drive/1uHndk8BtH2SYwwWpWEPRcJum_TfgJ9R2?usp=sharing]  
 - 📂 **Dataset:** [WeatherHistory.csv](https://www.kaggle.com/datasets/muthuj7/weather-dataset)  
-- 🖼️ **Slide Presentasi (PPT/PDF):** [https://www.canva.com/design/DAGyRrhEy8w/kRn5zRZ2uAb_jGnRymaqUw/edit?utm_content=DAGyRrhEy8w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]  
+- 🖼️ **Slide Presentasi (PPT/PDF):** [https://link-shortener-three-eta.vercel.app/Rj8-8C]  
 - 💻 **GitHub Repository:** [https://github.com/GazaHaikal/weather-capstone]  
 
 ---
@@ -108,6 +108,7 @@ Grafik berikut memperlihatkan fluktuasi musiman suhu rata-rata bulanan serta tre
 Jika tidak ingin menggunakan .env, kamu bisa memasukkan API token secara manual saat diminta di notebook.
 
 4. Jalankan setiap sel untuk reproduksi analisis.  
+
 
 
 
