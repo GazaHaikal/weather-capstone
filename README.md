@@ -106,5 +106,7 @@ Grafik berikut memperlihatkan fluktuasi musiman suhu rata-rata bulanan serta tre
 
 👉 Ganti your_api_key_here dengan token asli dari Replicate API Tokens.
 Jika tidak ingin menggunakan .env, kamu bisa memasukkan API token secara manual saat diminta di notebook.
+
 4. Jalankan setiap sel untuk reproduksi analisis.  
+
 
